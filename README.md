@@ -1,4 +1,4 @@
-# 🚀 Oniami Cloud Hosting (PHP + DirectAdmin)
+# 🚀 Onimai Cloud Hosting (PHP + DirectAdmin)
 
 ระบบเช่า Hosting อัตโนมัติ (Open Source) เขียนด้วย **PHP 8.1+**  
 
