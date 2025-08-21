@@ -4,6 +4,12 @@
 
 ---
 
+## 🖼 Screenshots
+
+![Dashboard](https://raw.githubusercontent.com/HitoriKung/onimai-cloud-hosting/refs/heads/main/screenshot/Screenshot_21-8-2025_122547_localhost.jpeg)
+
+---
+
 ## 📂 โครงสร้างไฟล์หลัก
 
 - `config/db.php` → ไฟล์ตั้งค่า Database Config
