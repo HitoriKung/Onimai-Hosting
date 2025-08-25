@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^login$ login.php [L]
+RewriteRule ^register$ register.php [L]
+
+RewriteRule ^api_agent$ api/agent.php [L]
